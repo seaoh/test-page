@@ -1,8 +1,8 @@
-# 첫번째 페이지-3
+# 첫번째 페이지
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
-Get Cakes
+get card
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -63,6 +63,4 @@ Could not find a cake matching this query.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
