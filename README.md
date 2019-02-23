@@ -1,4 +1,4 @@
-# 첫번째 페이지-2
+# 첫번째 페이지-3
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
